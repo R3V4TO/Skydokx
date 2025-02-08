@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "67a5bbde991e30019e550d9d"
+  },
+  "trafficLight": "Red",
+  "vehicleDensity": 35,
+  "emissions": 15.2,
+  "timestamp": {
+    "$date": "2025-02-06T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a5bbeb991e30019e550d9e"
+  },
+  "trafficLight": "Orange",
+  "vehicleDensity": 2,
+  "emissions": 1.5,
+  "timestamp": {
+    "$date": "2025-02-06T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a5bc0a991e30019e550d9f"
+  },
+  "trafficLight": "Green",
+  "vehicleDensity": 45,
+  "emissions": 9.2,
+  "timestamp": {
+    "$date": "2025-02-06T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a5c4f6a9880cbc7137e2fd"
+  },
+  "trafficLight": "Green",
+  "vehicleDensity": 30,
+  "emissions": 8.6,
+  "timestamp": {
+    "$date": "2025-02-06T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a5c504a9880cbc7137e2fe"
+  },
+  "trafficLight": "Orange",
+  "vehicleDensity": 5,
+  "emissions": 3.2,
+  "timestamp": {
+    "$date": "2025-02-06T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a5c50aa9880cbc7137e2ff"
+  },
+  "trafficLight": "Red",
+  "vehicleDensity": 35,
+  "emissions": 15.2,
+  "timestamp": {
+    "$date": "2025-02-06T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a5c510a9880cbc7137e300"
+  },
+  "trafficLight": "Orange",
+  "vehicleDensity": 4,
+  "emissions": 3.2,
+  "timestamp": {
+    "$date": "2025-02-06T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a5c51ea9880cbc7137e301"
+  },
+  "trafficLight": "Green",
+  "vehicleDensity": 46,
+  "emissions": 10.2,
+  "timestamp": {
+    "$date": "2025-02-06T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a5c587a9880cbc7137e302"
+  },
+  "trafficLight": "Red",
+  "vehicleDensity": 35,
+  "emissions": 15.2,
+  "timestamp": {
+    "$date": "2025-02-06T12:00:00.000Z"
+  }
+}]
